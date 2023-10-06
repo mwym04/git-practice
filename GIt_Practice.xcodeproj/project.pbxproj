@@ -8,7 +8,7 @@
 
 /* Begin PBXFileReference section */
 		CE89BD232ACFC1D000C5FA8A /* tigers.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = tigers.yaml; sourceTree = "<group>"; };
-		CE89BD242ACFC1E400C5FA8A /* lions.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = lions.yaml; sourceTree = "<group>"; };
+		CE89BD252ACFC23F00C5FA8A /* leopards.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = leopards.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -16,7 +16,7 @@
 			isa = PBXGroup;
 			children = (
 				CE89BD232ACFC1D000C5FA8A /* tigers.yaml */,
-				CE89BD242ACFC1E400C5FA8A /* lions.yaml */,
+				CE89BD252ACFC23F00C5FA8A /* leopards.yaml */,
 			);
 			sourceTree = "<group>";
 		};
